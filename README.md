@@ -38,9 +38,9 @@ Duplicate records were also identified using Excel’s “Remove Duplicates” f
 
 3. Descriptive Statistics 
 
-Table 1: Descriptive Statistics Summary
-
 <img width="1822" height="407" alt="Table 1" src="https://github.com/user-attachments/assets/59ebc338-9963-48c6-9cef-5b277f05507b" />
+
+Table 1: Descriptive Statistics Summary
 
 After the data cleaning process, the final dataset contained 17 rows (excluding Header Row)  and 6 columns. Descriptive statistics were performed for tourist arrivals in 2022, 2023, and the predicted values for 2024 to summarise the main characteristics of the data. The mean tourist arrivals increased from 31.41 million in 2022 to 38.49 million in 2023, while the predicted mean for 2024 is 38.32 million, indicating continued growth in global tourism activities. 
 
